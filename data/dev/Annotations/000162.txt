@@ -1,0 +1,15 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2006/PNGImages/000162.png"
+Image size (X x Y x C) : 375 x 500 x 3
+Database : "The VOC2006 Database"
+Objects with ground truth : 1 { "PAScat" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScat")
+Original label for object 1 "PAScat" : "PAScat"
+Bounding box for object 1 "PAScat" (Xmin, Ymin) - (Xmax, Ymax) : (50, 139) - (218, 376)
